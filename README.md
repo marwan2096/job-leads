@@ -1,5 +1,7 @@
 # JobLeads 🚀
 
+# Demo https://www.veed.io/view/90e5348d-a6ee-47b0-b34d-0e7b3036ec00?panel=share
+
 A full-stack Laravel job platform connecting job seekers with companies, featuring AI-powered CV review, multi-role authentication, and rich company dashboards.
 
 ---
